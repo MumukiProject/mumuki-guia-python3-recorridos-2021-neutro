@@ -1,1 +1,1 @@
-Por si no te acordás, los meses con 31 días son enero, marzo, mayo, julio, agosto, octubre y diciembre. :calendar_spiral:
+Por si no te acuerdas, los meses con 31 días son enero, marzo, mayo, julio, agosto, octubre y diciembre. :calendar_spiral:
