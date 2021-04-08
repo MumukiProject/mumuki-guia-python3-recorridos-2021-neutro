@@ -18,4 +18,4 @@ def mayores_a_5(numeros):
   return [numero for numero in numeros if numero > 5]
 ```
 
-> Redefiní la función `afortunados` para que haga lo mismo pero utilizando listas por comprensión.
+> Redefine la función `afortunados` para que haga lo mismo pero utilizando listas por comprensión.
