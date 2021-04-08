@@ -1,4 +1,4 @@
-Ana realiza muchas proyecciones sobre los balances de su empresa, por lo que le dijimos que podíamos darle una mano ahora que sabemos mapear. Lo que le interesa hacer es poder ver cuáles serían las ganancias de un balance si todas hubieran sido del doble :moneybag:. Por ejemplo:
+Ana realiza muchas proyecciones sobre los balances de su empresa, por lo que le dijimos que podíamos ayudarla ahora que sabemos mapear. Lo que quiere hacer es poder ver cuáles serían las ganancias de un balance si todas hubieran sido del doble :moneybag:. Por ejemplo:
 
 ``` python
 ム balances_ultimo_semestre = [
@@ -16,4 +16,4 @@ Ana realiza muchas proyecciones sobre los balances de su empresa, por lo que le 
 
 Como verás, si las ganancias fueran negativas ahora serán ¡doblemente negativas! :chart_with_downwards_trend:
 
-> Definí la función `doble_de_ganancias`. Podés utilizar tanto `for...in` como listas por comprensión, lo que vos prefieras. :relaxed:
+> Define la función `doble_de_ganancias`. Puedes utilizar tanto `for...in` como listas por comprensión, lo que tu  prefieras. :relaxed:

@@ -1,3 +1,3 @@
 ¡Perfecto! :clap:
 
-¿Y si solo quisieramos algunos balances? ¿podemos filtrar utilizando `for...in`? :flushed:
+¿Y si solo quisieramos algunos balances? ¿Podemos filtrar utilizando `for...in`? :flushed:
