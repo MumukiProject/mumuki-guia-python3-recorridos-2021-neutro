@@ -1,6 +1,6 @@
 En el ejercicio anterior hicimos un mapeo utilizando `for...in`. En Python contamos con otras formas de hacer eso, ¡las listas por comprensión! :star_struck:
 
-Veamos cómo funcionan, si a partir de una lista de strings quisieramos obtener una lista con los largos de cada uno, podríamos definir:
+Veamos cómo funcionan. Si a partir de una lista de strings quisieramos obtener una lista con los largos de cada uno, podríamos definir:
 
 ``` python
 def largos(palabras):
@@ -17,4 +17,4 @@ def largos(palabras):
   return [len(palabra) for palabra in palabras]
 ```
 
-> Redefiní la función `meses` para que haga lo mismo que antes pero utilizando listas por comprensión. 
+> Redefine la función `meses` para que haga lo mismo que antes pero utilizando listas por comprensión. 
