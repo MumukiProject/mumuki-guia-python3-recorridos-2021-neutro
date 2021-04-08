@@ -1,1 +1,1 @@
-En este ejercicio no vas a tener que hacer un `for...in`, simplemente invocar correctamente a `meses` y `afortunados`. Para recordarlas podés ver la `Biblioteca`. :relaxed:
+En este ejercicio no tendrás que hacer un `for...in`, simplemente invocar correctamente a `meses` y `afortunados`. Para recordarlas puedes ver la `Biblioteca`. :relaxed:
