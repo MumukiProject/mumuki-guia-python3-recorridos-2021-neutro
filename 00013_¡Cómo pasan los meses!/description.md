@@ -1,6 +1,6 @@
 ¡Ahora que sabemos mapear vamos a practicarlo! :muscle:
 
-> Definí la función `meses` que dada una lista con diccionarios devuelve una lista de meses. :calendar:
+> Define la función `meses` que dada una lista con diccionarios devuelve una lista de meses. :calendar:
 >
 ```python
 ム meses([
